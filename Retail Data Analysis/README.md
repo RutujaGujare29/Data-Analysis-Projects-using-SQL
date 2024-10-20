@@ -12,7 +12,7 @@
 * Sales Trends: Monthly analysis shows variations in sales, helping identify peak seasons.
 * Customer Insights: The analysis identifies the top-spending customers and the most popular product categories.
 
-  **Reports**:
+**Reports**:
 
 * Sales Summary: A detailed report summarizing total sales, customer demographics, and category performance.
 * Trend Analysis: Insights into sales trends across different months and shifts.
